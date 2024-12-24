@@ -1,0 +1,26 @@
+header{
+  height: 90px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #333;
+  position: fixed;
+  z-index: 99999;
+}
+
+.header-inner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo{
+  font-size: 30px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.cart{
+  font-size: 20px;
+  color: gold;
+}
