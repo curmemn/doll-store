@@ -36,6 +36,6 @@
   <h2 style="border-bottom: 1px solid #d8dee4;"> 4️⃣ useParams를 활용한 상품 디테일 페이지</h2>
     <img width="70%" src="https://github.com/user-attachments/assets/5249cf45-fd8d-4376-85e2-ab71cbf30025"/>
     <ul>
-      <li>useParams를 활용해해 클릭한 상품의 상세 정보를 확인할 수 있게 만들었습니다.</li>
+      <li>useParams를 활용해 클릭한 상품의 상세 정보를 확인할 수 있게 만들었습니다.</li>
     </ul>
   </div> 
